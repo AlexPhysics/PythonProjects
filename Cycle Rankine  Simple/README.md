@@ -8,5 +8,5 @@ The science behind it: [Wiki](https://en.wikipedia.org/wiki/Rankine_cycle).
 The problem: [atp_tp_cyclebaserankine_simple.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20Rankine%20%20Simple/atp_tp_cyclebaserankine_simple.pdf).  
 The solution - efficiency calculation: [cycleRankineBase.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20Rankine%20%20Simple/cycleRankineBase.py).  
 
-Image credits: By ​Wikipedia (user:andrew.ainsworth) user [[:User:Andrew.Ainsworth:User:{{{3}}}|{{{3}}}]], CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7113276
+Image credits: By ​Wikipedia (user:andrew.ainsworth), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7113276
 ![Rankine_cycle_layout](https://github.com/AlexPhysics/PythonProjects/assets/81239843/1df6c93f-821d-4eae-8d63-2724e0149bf7)
