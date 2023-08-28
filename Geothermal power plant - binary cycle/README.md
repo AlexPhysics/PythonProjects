@@ -10,3 +10,4 @@ The solution - efficiency, CO2 mass flow rate and power calculation: [cycleGeobi
 Results and conclusion: [rapport_cycle_géothermique_binaire_ COSTRITA_Alexandru.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20binary%20cycle/rapport_cycle_g%C3%A9othermique_binaire_%20COSTRITA_Alexandru.pdf).  
 
 Image credits: By Goran tek-en, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=31077638
+![Diagram_HotWaterGeothermal_inturperated_version svg](https://github.com/AlexPhysics/PythonProjects/assets/81239843/14b1841e-b0ad-4c7f-98ba-bfbe6d6279bd)
