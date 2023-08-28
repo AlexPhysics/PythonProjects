@@ -4,7 +4,7 @@ Geothermal power is electrical power generated from geothermal energy. Technolog
 
 Geothermal power stations are similar to other steam turbine thermal power stations in that heat from a fuel source (in geothermal's case, the Earth's core) is used to heat water or another working fluid. The working fluid is then used to turn a turbine of a generator, thereby producing electricity. The fluid is then cooled and returned to the heat source. @https://en.wikipedia.org/wiki/Geothermal_power.
 
-Here is the next thread with a double flow binary cycle : [Geothermal power plant - single and double flow](https://github.com/AlexPhysics/PythonProjects/tree/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow)
+Here is the next thread with a double flow binary cycle : [Geothermal power plant - single and double flow](https://github.com/AlexPhysics/PythonProjects/tree/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow).
 
 The science behind it: [Wiki](https://en.wikipedia.org/wiki/Geothermal_power).  
 The problem: [atp_tp02_binarygeotherm.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20binary%20cycle/atp_tp02_binarygeotherm.pdf).  
