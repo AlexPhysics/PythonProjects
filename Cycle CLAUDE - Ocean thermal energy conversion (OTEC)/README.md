@@ -6,4 +6,5 @@ Energy from the sun heats the surface water of the ocean. In tropical regions, s
 
 You can find efficiency calculus for the present cycle in the cycleClaude.py
 
-![alt text](https://www.researchgate.net/profile/Petter-Terenius/publication/328741842/figure/fig4/AS:689952073478152@1541508801466/The-working-principle-for-closed-cycle-OTEC-A-working-fluid-such-as-ammonia-vaporizes-in.png)
+Image credits: Terenius, Petter. (2015). OTEC Matters 2015. 
+![pipe1](https://github.com/AlexPhysics/PythonProjects/assets/81239843/f959d401-79e3-4f3f-8533-93fe8b3c2617)
