@@ -6,7 +6,7 @@ Energy from the sun heats the surface water of the ocean. In tropical regions, s
 
 The science behind it: [M6-010-OTECs.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20CLAUDE%20-%20Ocean%20thermal%20energy%20conversion%20(OTEC)/M6-010-OTECs.pdf).  
 The problem: [atp_tp_OTECCycleClaude.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20CLAUDE%20-%20Ocean%20thermal%20energy%20conversion%20(OTEC)/atp_tp_OTECCycleClaude.pdf).  
-The solution with power, efficiency, mass flow and volume flow calculations: [cycleClaude.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20CLAUDE%20-%20Ocean%20thermal%20energy%20conversion%20(OTEC)/cycleClaude.py).  
+The solution with power, efficiency, mass flow rate and volume flow rate calculations: [cycleClaude.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Cycle%20CLAUDE%20-%20Ocean%20thermal%20energy%20conversion%20(OTEC)/cycleClaude.py).  
 
 Image credits: Terenius, Petter. (2015). OTEC Matters 2015. 
 ![pipe1](https://github.com/AlexPhysics/PythonProjects/assets/81239843/f959d401-79e3-4f3f-8533-93fe8b3c2617)
