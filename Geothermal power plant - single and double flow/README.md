@@ -1,4 +1,4 @@
-# Geothermal power plant - binary cycle
+# Geothermal power plant - single and double flow binary cycle 
 
 Geothermal power is electrical power generated from geothermal energy. Technologies in use include dry steam power stations, flash steam power stations and binary cycle power stations.
 
