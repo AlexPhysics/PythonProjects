@@ -9,7 +9,7 @@ Binary cycle power stations are the most recent development, and can accept flui
 The science behind it: [Wiki](https://en.wikipedia.org/wiki/Geothermal_power).  
 The problem: [atp_tp_singleDoubleflashgeotherm.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow/atp_tp_singleDoubleflashgeotherm.pdf).  
 The solution - efficiency, CO2 mass flow rate and power calculation: [cycleGeo.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow/cycleGeo.py).  
-The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow/Graphs)  
+The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow/Graphs).    
 Results and conclusion: [rapport_cycle_géothermique_COSTRITA_Alexandru.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20single%20and%20double%20flow/rapport_cycle_g%C3%A9othermique_COSTRITA_Alexandru.pdf).  
 
 Image credits: By Goran tek-en, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=31077638
