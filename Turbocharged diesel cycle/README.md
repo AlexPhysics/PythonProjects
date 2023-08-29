@@ -10,7 +10,7 @@ Diesel engines are typically well suited to turbocharging due to two factors:
 
 As per turbocharged petrol engines, an intercooler can be used to cool the intake air and therefore increase its density. @https://en.wikipedia.org/wiki/Turbo-diesel
 
-The science behind it: [Wiki](https://en.wikipedia.org/wiki/Turbo-dieselvvvvvvvv).  
+The science behind it: [Wiki](https://en.wikipedia.org/wiki/Turbo-diesel).  
 The problem: [atp_tp_diesel_turbocharged_etu.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Turbocharged%20diesel%20cycle/atp_tp_diesel_turbocharged_etu.pdf).  
 The solution - efficiency and generated power calculation: [cycleDieselTurbo.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Turbocharged%20diesel%20cycle/cycleDieselTurbo.py).    
 The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Turbocharged%20diesel%20cycle/Graphs).  
