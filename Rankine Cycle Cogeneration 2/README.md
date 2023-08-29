@@ -14,4 +14,5 @@ The solution - efficiency, CO2 mass flow rate and power calculation: [cycleRanki
 The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Rankine%20Cycle%20Cogeneration%202/Graphs).  
 Results and conclusion: [rapport_cycle_géothermique_binaire_ COSTRITA_Alexandru.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Geothermal%20power%20plant%20-%20binary%20cycle/rapport_cycle_g%C3%A9othermique_binaire_%20COSTRITA_Alexandru.pdf).  
 
-Image credits: By Goran tek-en, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=31077638
+Image credits: By Heinrich-Böll-Stiftung - https://www.flickr.com/photos/boellstiftung/38359636032, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=79343425
+![Cogeneration](https://github.com/AlexPhysics/PythonProjects/assets/81239843/47994256-27a7-4609-a8f3-9a40297f241b)
