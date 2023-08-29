@@ -10,3 +10,4 @@ The solution - efficiency and generated power for a precise surface calculation:
 The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Solar%20power%20plant/Graphs).  
 
 Image credits: By S-kei - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=17181966
+![solar power plant](https://github.com/AlexPhysics/PythonProjects/assets/81239843/801e5859-b7c2-4a8c-b815-de153e77d464)
