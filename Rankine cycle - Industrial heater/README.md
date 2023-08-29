@@ -14,7 +14,7 @@ Integrating an industrial heater with a Rankine cycle can make the overall proce
 
 By combining power generation and heat utilization, the system can achieve higher overall thermal efficiencies, thereby reducing the total energy consumption and potentially the environmental impact.
 
-The science behind it: [Process heater (cogeneration).pdf](https://en.wikipedia.org/wiki/Rankine_cycle).  
+The science behind it: [Wiki](https://en.wikipedia.org/wiki/Rankine_cycle).  
 The problem: [atp_tp_checkknowledge_cyclebaserankine.pdf](https://github.com/AlexPhysics/PythonProjects/blob/main/Rankine%20cycle%20-%20Industrial%20heater/atp_tp_checkknowledge_cyclebaserankine.pdf).  
 The solution - efficiency, CO2 mass flow rate and power calculation: [cycleRankineCogen01.py](https://github.com/AlexPhysics/PythonProjects/blob/main/Rankine%20cycle%20-%20Industrial%20heater/cycleRankineCogen01.py).    
 The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Rankine%20cycle%20-%20Industrial%20heater/Graphs).  
