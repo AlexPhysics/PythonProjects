@@ -20,3 +20,4 @@ The solution - efficiency, CO2 mass flow rate and power calculation: [cycleRanki
 The graphs associated with the solution: [Graphs](https://github.com/AlexPhysics/PythonProjects/tree/main/Rankine%20cycle%20-%20Industrial%20heater/Graphs).  
 
 Image credits: By ​Wikipedia (user:andrew.ainsworth), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7113276
+![Rankine_cycle_layout](https://github.com/AlexPhysics/PythonProjects/assets/81239843/d0bcc96b-0801-4ff7-92bf-f9cf27372a47)
